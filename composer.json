@@ -39,7 +39,7 @@
         "mikey179/vfsstream": "^1.6",
         "mockery/mockery": "^1.5",
         "orchestra/testbench": "^8.1 || ^9.0",
-        "phpunit/phpunit": "^9.5.26 || ^10.5"
+        "phpunit/phpunit": "^11.4.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
